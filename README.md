@@ -1,7 +1,14 @@
 # engenireeing-notebook_1
 engineeering 101 caster 
-
-base 
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [Base](#Base)
+* [Mount](#Mount)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [AxleCollarBearings](#AxleCollarBearings)
+(#Base)
 description 
 If you are like me your the type of person that needs to watch someone do it then do it yourself and double-check or sometime you may learn how to do it and then just go completely blank after learning it anyway  
  So for my base was fairly simple thanks to Mr.Helmstetter putting in videos of how to create the bases on all of the parts but I also went back to fundamentals just to remember short cuts on sketching I found myself going back and looking at measurements in the video a lot so I decided to take my notebook and write down the measurements so I didn’t have to go back and rewatch the video to hear the measurements all the time base is just a rectangle so and some holes.  
@@ -11,6 +18,6 @@ refelction
 You’re not gonna get everything right the first time it’s ok to start over but also you can ask Mr.helmsetter for help when you’re creating make sure you click the right lines also don’t stress out that you have 6 circles there’s supposed to be 6 his videos cut off the 6th circle don’t assume what to do double-check.
 
 
-mount 
-description 
+(#Mount)
+#description 
  round two the mount this was somewhat difficult because at first, I did it directly on top of the base which is where it’s supposed to be but some of you may ake separate document for your parts I kept it in one and then turned off the other parts so it was like a new document but I could see if I had put it in the right place, 
